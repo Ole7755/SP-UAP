@@ -15,3 +15,5 @@ __pycache__/
 outputs/
 scripts/
 baseline/
+ablation/
+main_result/

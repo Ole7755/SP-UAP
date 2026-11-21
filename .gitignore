@@ -1,19 +1,5 @@
-# Operating system and editor files
 .DS_Store
-.vscode/
-.codex/
-
-# Python bytecode and test caches
+.venv/
 __pycache__/
-*.py[cod]
-.pytest_cache/
-
-# Vendored baseline repository metadata
-**/.git/
-
-# Generated experiment artifacts
-outputs/
-scripts/
-baseline/
-ablation/
-main_result/
+*.pt
+*.pth
